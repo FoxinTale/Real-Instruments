@@ -1,0 +1,20 @@
+{
+  "itemName" : "realclarinets",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "clarineticon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A clarinet section.",
+  "shortdescription" : "RI - Clarinet Section",
+  "largeImage" : "clarinet.png",
+  "image" : "clarinet.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "clarinet.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0.2, -0.1],
+
+  "handPosition" : [0.3, 0],
+  "twoHanded" : true,
+  "kind" : "realclarinets"
+}

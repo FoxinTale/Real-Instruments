@@ -1,0 +1,18 @@
+{
+  "itemName" : "realuprightpiano",
+  "inventoryIcon" : "keytaricon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "common",
+  "description" : "A fully sampled uright Piano. Sounds great too.",
+  "shortdescription" : "RI - Upright Piano",
+  "largeImage" : "keytaricon.png",
+  "image" : "keytaricon.png",
+  "inspectionKind" : "tool",
+  "activeImage" : "keytaricon.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0.5, 0],
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "realuprightpiano"
+}

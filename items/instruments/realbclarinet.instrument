@@ -1,0 +1,18 @@
+{
+  "itemName" : "realbclarinet",
+  "inventoryIcon" : "clarinet.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "common",
+  "description" : "A Bass Clarinet. A clarinet, but lower.",
+  "shortdescription" : "RI - Bass Clarinet",
+  "largeImage" : "clarinet.png",
+  "image" : "clarinet.png",
+  "inspectionKind" : "tool",
+  "activeImage" : "clarinet.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0.5, 0],
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "realbclarinet"
+}

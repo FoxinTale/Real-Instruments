@@ -1,0 +1,8 @@
+{
+    "name" : "Real Instruments",
+    "path" : ".",
+	"metadata": {
+		"author" :"FoxinTale",
+		"description" : "Sample pack of the full ranges of almost every common orchestral instrument, and then some."
+	}
+}

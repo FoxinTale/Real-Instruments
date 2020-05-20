@@ -1,0 +1,19 @@
+{
+  "itemName" : "realviolinstwo",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "violinicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Second violin section.",
+  "shortdescription" : "RI - Second Violins",
+  "largeImage" : "violin.png",
+  "image" : "violin.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "violin.png",
+  "activeAngle" : 6,
+  "activeHandPosition" : [0, 0.3],
+  "handPosition" : [0.15, 0.15],
+  "twoHanded" : true,
+  "kind" : "realviolinstwo"
+}

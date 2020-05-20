@@ -1,0 +1,20 @@
+{
+  "itemName" : "realtuba",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "trumpet.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A Tuba. The lower end of the brass family.",
+  "shortdescription" : "RI - Tuba",
+  "largeImage" : "trumpet.png",
+  "image" : "trumpet.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "trumpet.png",
+  "activeAngle" : 6,
+  "activeHandPosition" : [0, 0.3],
+
+  "handPosition" : [0.15, 0.15],
+  "twoHanded" : true,
+  "kind" : "realtuba"
+}

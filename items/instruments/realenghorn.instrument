@@ -1,0 +1,20 @@
+{
+  "itemName" : "realenghorn",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "oboeicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "An English Horn / Cor Anglais. A reed instument, just below an Oboe in range.",
+  "shortdescription" : "RI - English Horn",
+  "largeImage" : "oboe.png",
+  "image" : "oboe.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "oboe.png",
+  "activeAngle" : 6,
+  "activeHandPosition" : [0, 0.3],
+
+  "handPosition" : [0.15, 0.15],
+  "twoHanded" : true,
+  "kind" : "realenghorn"
+}

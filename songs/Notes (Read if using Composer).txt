@@ -1,0 +1,7 @@
+When there is a second clarinet in a song, it is usually, but not always a bass clarinet. 
+If the notes are different from the regular clarinet, it's probably a bass.
+
+For Violins, if the second violin notes are different, it's probably "Second Violins"
+
+Another thing I noticed, when a glockenspiel is imported from a MIDI, it needs to be tuned down two octaves (-24 semitones).
+I've already done this in the bits that are in here, but when imported from not here, this needs to be done.
