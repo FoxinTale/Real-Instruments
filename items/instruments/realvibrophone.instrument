@@ -1,0 +1,20 @@
+{
+  "itemName" : "realvibrophone",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "bonexylophoneicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Kind of like a xylophone made of metal.",
+  "shortdescription" : "RI - Vibrophone",
+  "largeImage" : "bonexylophone.png",
+  "image" : "bonexylophone.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "bonexylophone.png",
+  "activeAngle" : 6,
+  "activeHandPosition" : [0, 0.3],
+
+  "handPosition" : [0.15, 0.15],
+  "twoHanded" : true,
+  "kind" : "realvibrophone"
+}

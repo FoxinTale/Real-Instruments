@@ -1,0 +1,20 @@
+{
+  "itemName" : "realcleanguitar",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "leadguitaricon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A clean, undistorted guitar.",
+  "shortdescription" : "RI - Clean Electric Guitar",
+  "largeImage" : "leadguitar.png",
+  "image" : "leadguitar.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "leadguitar.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0.1, 0.1],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "realcleanguitar"
+}

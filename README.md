@@ -1,7 +1,7 @@
 # Real-Instruments
 Overhauling and adding realistic sounding instruments to the game Starbound.
 
-(If you're here from the wiki where this is linked to, the following i pretty much copy/paste from there)
+(If you're here from the wiki / forum where this is linked to, the following I pretty much copy/paste from there)
 
 
 ## What is it?
@@ -15,12 +15,12 @@ The soft and upright pianos are fully sampled throughout their entire range.
 All samples are gathered from open source or public domain sample libraries,
 such as the Sonatina Symphonic Orchestra, VSCO Community Edition and the Virtual Playing Orchestra.
 Most of the samples have been edited to have reverb and sound more realistic, and "proper".
-The upright piano is from Besku Upright, which can be found on freesound.org by searching user 'beskhu'.
 See the Credits & Attribution at the bottom for links to them.
 	
-## Note:
+# Note:
 Currently, this is only useful in Starbound Composer, as I do not have the instruments in the game world yet.
 They can easily be identified with the preceding text of "RI - ", for Real Instruments.
+Though, the instruments are accessible through the "/spawnitem" command. A full list of the ids is in "items.txt" in the mod download.
 
 ### Instrument List
 - Strings
@@ -31,6 +31,7 @@ They can easily be identified with the preceding text of "RI - ", for Real Instr
 	- Viola Section
 	- Cello Section
 	- Contrabass / Double Bass Section	
+	
 - Brass:
 	- Solo Trumpet
 	- Solo Horn
@@ -40,6 +41,7 @@ They can easily be identified with the preceding text of "RI - ", for Real Instr
 	- Trumpet Section
 	- Horn Section
 	- Trombone Section
+	
 - Woodwinds:
 	- Solo Piccolo
 	- Solo Flute
@@ -52,45 +54,54 @@ They can easily be identified with the preceding text of "RI - ", for Real Instr
 	- Clarinet Section
 	- Oboe Section
 	- Bassoon Section
+	- Baritone Saxophone
+	- Tenor Saxophone
+	- Alto Saxophone
+	- Soprano Saxophone
+	
 - Keyed Instruments:
 	- Upright Piano		
+	- Grand Piano
+	- Honky-Tonk Piano.
+	- Soft Electric Piano
+	- Electric Piano One(Rhodes-like sound)
+	
 - Percussion:
 	- Tubular Bells
 	- Glockenspiel
+	- Xylophone
+	- Vibrophone
+	- Crotales
 
-
+- Plucked & Picked Strings:
+	- Clean Electric Guitar
+	- Acoustic Bass
+	- Banjo
+	- Electric Bass
+	- Steel-String Acoustic
+	- Nylon String Acoustic
+	- Orchestral  Harp
+	
 ##### Instruments that are planned to be added:
-	Nylon Acoustic Guitar
-	Steel String Acoustic guitar
-	Acoustic Bass
-	Banjo
+	--Nylon Acoustic Guitar
+	--Steel String Acoustic guitar
 	Mandolin
-	Electric Bass
+	--Electric Bass
 	"Chunky" Electric Bass
-	Clean Electric Guitar
+	--Clean Electric Guitar
 	Rhythm Electric Guitar
 	Lead Electric Guitar
 	Overdrive Guitar
 	Distorted Guitar 
-	Vibrophone
 	Timpani
-	Xylophone
 	Marimba
-	Soft Electric Piano
+	--Soft Electric Piano
 	Electric Piano
-	'Hard' Piano.
-	Honky-Tonk Piano
-	Acoustic Grand Piano
 	Electric Grand Piano
 	Soft Piano
-	Harp
 	Pizzicato Strings
 	Tremolo Strings
 	Choir
-	Soprano Sax
-	Alto Sax
-	Tenor Sax
-	Baritone Sax
 	Various drumkits, for different tyes of sound. 
 	Maybe a few extra bonuses sampled by me from an old Yamaha keyboard I have lying around.
 	
@@ -107,12 +118,8 @@ Despite having a large MIDI collection, only a few of them work well with Compos
   
 	
 ### Credits & Attributions: 
-  - Beskhu, on freesound.org: https://freesound.org/people/beskhu/
-  - Bigcat Instruments: http://bigcatinstruments.blogspot.com/2014/
-  - Sonatia Symphonic Orchestra by Mattias Westlund : https://github.com/peastman/sso/tree/master/Sonatina%20Symphonic%20Orchestra
-  - Versilian Studios Chamber Orchestra Community Edition: https://github.com/sgossner/VSCO-2-CE
-  - Virtual Playing Orchestra: http://virtualplaying.com/virtual-playing-orchestra/
 
+  - For a more specific and detailed 'who did what', see credits.txt.
 
 ### Permissions:
  Basically, if you make changes to it let me know, and if they're good enough, they might just make it into the releases (with credit, of course). 

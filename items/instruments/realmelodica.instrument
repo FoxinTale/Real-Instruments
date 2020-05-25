@@ -1,0 +1,20 @@
+{
+  "itemName" : "realmelodica",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "harmonicaicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A Melodica. Used like a harmonica, played like a keyboard. What an odd instrument.",
+  "shortdescription" : "RI - Melodica",
+  "largeImage" : "harmonica.png",
+  "image" : "harmonica.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "harmonica.png",
+  "activeAngle" : 15,
+  "activeHandPosition" : [-0.4, 0.25],
+
+  "handPosition" : [0, 0.1],
+  "twoHanded" : true,
+  "kind" : "realmelodica"
+}
