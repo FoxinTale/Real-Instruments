@@ -3,6 +3,9 @@ Overhauling and adding realistic sounding instruments to the game Starbound.
 
 (If you're here from the wiki / forum where this is linked to, the following I pretty much copy/paste from there)
 
+# Important note
+As this is the development branch, there are some instruments listed as in the pack, but aren't. 
+You DO Not want this version of the mod, as it is incomplete. Version 0.2 will be coming soon.
 
 ## What is it?
 This is a massive overhaul of the instruments of the game.
