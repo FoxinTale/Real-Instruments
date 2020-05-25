@@ -18,9 +18,9 @@ Most of the samples have been edited to have reverb and sound more realistic, an
 See the Credits & Attribution at the bottom for links to them.
 	
 # Note:
-Currently, this is only useful in Starbound Composer, as I do not have the instruments in the game world yet.
+Currently, this is only useful in Starbound Composer, though they can be spawned in via the "/spawnitem" command.
 They can easily be identified with the preceding text of "RI - ", for Real Instruments.
-Though, the instruments are accessible through the "/spawnitem" command. A full list of the ids is in "items.txt" in the mod download.
+ A full list of the ids for spawning is in "items.txt".
 
 ### Instrument List
 - Strings

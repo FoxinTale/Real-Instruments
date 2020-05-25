@@ -1,0 +1,47 @@
+Item's Display Name ==> Spawn ID
+
+RI - Acoustic Bass ==> realacousticbass
+RI - Alto Flute ==> realaltoflute
+RI - Banjo ==> realbanjo
+RI - Baritone Saxophone ==> realbaritonesax
+RI - Soft Electric Piano ==> realbasicepiano
+RI - Bass Flute ==> realbassflute
+RI - Bassoon ==> realbassoon
+RI - Bassoon Section ==> realbassoons
+RI - Bass Clarinet ==> realbclarinet
+RI - Tubular Bells ==> realbells
+RI - Bass Trombone ==> realbtrombone
+RI - Contrabass ==> realcbass
+RI - Contrabassoon ==> realcbassoon
+RI - Cello ==> realcello
+RI - Cello Section ==> realcellos
+RI - Clarinet ==> realclarinet
+RI - Clarinet Section ==> realclarinets
+
+RI - Crotales ==> realcrotales
+RI - English Horn ==> realenghorn
+RI - Flute ==> realflute
+RI - Flute Section ==> realflutes
+RI - Glockenspiel ==> realglockenspiel
+RI - Grand Piano ==> realgrandpiano
+RI - Grand Piano 2 ==> realgrandpianotwo
+RI - Harp ==> realharp
+RI - Honky Tonk Piano ==> realhonky
+RI - French Horn ==> realhorn
+RI - French Horn Section ==> realhorns
+RI - Melodica ==> realmelodica
+Ri - Oboe ==> realoboe
+RI - Oboe Section ==> realoboes
+RI - Piccolo ==> realpiccolo
+RI - Trombone ==> realtrombone
+RI - Trombone Section ==> realtrombones
+RI - Trumpet ==> relatrumpet
+RI - Trumpet Section ==> realtrumpets
+RI - Tuba ==> realtuba
+RI - Upright Piano ==> realuprightpiano
+RI - Vibrophone ==> realvibrophone
+RI - Viola Section ==> realviolas
+RI - Solo Violin ==> realviolin
+RI - First Violins ==> realviolins
+RI - Second Violins ==> realviolinstwo
+RI - Xylophone ==> realxylophone

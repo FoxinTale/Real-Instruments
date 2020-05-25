@@ -6,7 +6,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "description" : "A solo violin. Just one for those moments.",
-  "shortdescription" : "RI - Violin",
+  "shortdescription" : "RI - Solo Violin",
   "largeImage" : "violin.png",
   "image" : "violin.png",
   "tooltipKind" : "tool",
