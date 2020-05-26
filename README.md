@@ -52,6 +52,7 @@ They can easily be identified with the preceding text of "RI - ", for Real Instr
 	- Solo Clarinet
 	- Solo Oboe
 	- Solo Bassoon
+	- Solo Bass Flute
 	- Solo Contrabassoon
 	- Flute Section
 	- Clarinet Section
