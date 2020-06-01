@@ -2,6 +2,7 @@ Item's Display Name ==> Spawn ID
 
 RI - Acoustic Bass ==> realacousticbass
 RI - Alto Flute ==> realaltoflute
+RI - Alto Saxophone ==> realaltosax
 RI - Banjo ==> realbanjo
 RI - Baritone Saxophone ==> realbaritonesax
 RI - Soft Electric Piano ==> realbasicepiano
@@ -17,7 +18,6 @@ RI - Cello ==> realcello
 RI - Cello Section ==> realcellos
 RI - Clarinet ==> realclarinet
 RI - Clarinet Section ==> realclarinets
-
 RI - Crotales ==> realcrotales
 RI - English Horn ==> realenghorn
 RI - Flute ==> realflute
@@ -33,6 +33,9 @@ RI - Melodica ==> realmelodica
 Ri - Oboe ==> realoboe
 RI - Oboe Section ==> realoboes
 RI - Piccolo ==> realpiccolo
+RI - Soprano Saxophone ==> realsopranosax
+RI - Steel String Acoustic ==> realsteelacoustic
+RI - Tenor Saxophone ==> realtenorsax
 RI - Trombone ==> realtrombone
 RI - Trombone Section ==> realtrombones
 RI - Trumpet ==> relatrumpet

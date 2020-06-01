@@ -44,6 +44,7 @@ They can easily be identified with the preceding text of "RI - ", for Real Instr
 	- Trumpet Section
 	- Horn Section
 	- Trombone Section
+	- Horn Ensemble
 	
 - Woodwinds:
 	- Solo Piccolo
@@ -58,6 +59,7 @@ They can easily be identified with the preceding text of "RI - ", for Real Instr
 	- Clarinet Section
 	- Oboe Section
 	- Bassoon Section
+	- Bass Flute
 	- Baritone Saxophone
 	- Tenor Saxophone
 	- Alto Saxophone
@@ -66,9 +68,9 @@ They can easily be identified with the preceding text of "RI - ", for Real Instr
 - Keyed Instruments:
 	- Upright Piano		
 	- Grand Piano
+	- A second grand piano
 	- Honky-Tonk Piano.
 	- Soft Electric Piano
-	- Electric Piano One(Rhodes-like sound)
 	
 - Percussion:
 	- Tubular Bells
@@ -78,28 +80,24 @@ They can easily be identified with the preceding text of "RI - ", for Real Instr
 	- Crotales
 
 - Plucked & Picked Strings:
-	- Clean Electric Guitar
 	- Acoustic Bass
 	- Banjo
-	- Electric Bass
 	- Steel-String Acoustic
-	- Nylon String Acoustic
 	- Orchestral  Harp
+	- Distorted Electric Guitar
 	
 ##### Instruments that are planned to be added:
-	--Nylon Acoustic Guitar
-	--Steel String Acoustic guitar
+	Nylon Acoustic Guitar
 	Mandolin
-	--Electric Bass
+	Electric Bass
 	"Chunky" Electric Bass
-	--Clean Electric Guitar
+	Clean Electric Guitar
 	Rhythm Electric Guitar
 	Lead Electric Guitar
 	Overdrive Guitar
 	Distorted Guitar 
 	Timpani
 	Marimba
-	--Soft Electric Piano
 	Electric Piano
 	Electric Grand Piano
 	Soft Piano
@@ -110,7 +108,8 @@ They can easily be identified with the preceding text of "RI - ", for Real Instr
 	Maybe a few extra bonuses sampled by me from an old Yamaha keyboard I have lying around.
 	
 #### Known Issues:
-  - The upright piano does sound somewhat muted (to me, anyways) This is why there will be many pianos.
+  - With the electric guitar when notes are played fast it sounds rather odd. There's nothing I can do about that.
+	
 	
 #### Demos: 
 Despite having a large MIDI collection, only a few of them work well with Composer, as the rest are instrument heavy.
@@ -120,11 +119,19 @@ Despite having a large MIDI collection, only a few of them work well with Compos
   - The Runaway Bride, from Doctor Who: https://tinyurl.com/yckeaq2c
   - The Doctor Forever( 10's theme), from Doctor Who: https://tinyurl.com/ycjtw5zd
   
-	
+
+
 ### Credits & Attributions: 
 
   - For a more specific and detailed 'who did what', see credits.txt.
 
+#### Notes
+	The electric guitar is not from anywhere, I recorded it from my own. 
+	A Fender Squier Strat, on the bridge pickup with Ernie Ball 'Not even Slinky' strings, tuned down to dropped C / D drop C.
+	Amp sim used wsa Amplitube 4, on the Heavy St 1 preset.
+	
+	
+	
 ### Permissions:
  Basically, if you make changes to it let me know, and if they're good enough, they might just make it into the releases (with credit, of course). 
 
